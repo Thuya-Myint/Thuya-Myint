@@ -28,6 +28,6 @@ in Machine Learning Engineering and MLOps.
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thuya-Myint&include_all_commits=true&number_format=long&show_icons=true&theme=github_dark&hide_border=true)
+![All-time GitHub stats](https://github-stats-extended.vercel.app/api?username=Thuya-Myint&include_all_commits=true&number_format=long&show_icons=true&theme=github_dark&hide_border=true)
 
 [Explore my contributions](https://github.com/Thuya-Myint?tab=overview)
